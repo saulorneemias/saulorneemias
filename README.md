@@ -24,4 +24,5 @@ Se você é um desenvolvedor mais experiente, ficarei muito grato em receber qua
 Quero expressar minha gratidão à comunidade de desenvolvedores por fornecer recursos que tornaram meu aprendizado mais acessível. Sem vocês com toda a certeza não conseguiria ter motivação e o conhecimento necessário para continuar com meus estudos.
 
 Agradeço você a dedicar um pouco do seu tempo em ler até aqui! 
+
  *Saulor*
